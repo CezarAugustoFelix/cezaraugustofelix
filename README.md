@@ -39,3 +39,8 @@ Com uma trajetória criativa no universo da **fotografia, vídeo e design**, hoj
 ### 💡 Frase que me guia:  
 > **"Evoluir é preciso. Aprender, desaprender e reaprender. A jornada nunca para."**
 (https://github.com/user-attachments/assets/df38bb47-de38-478a-b53c-7e000f3f66ac)
+>
+> ## 🐍 Snake eating my contributions
+
+![snake gif](./assets/github-snake.svg)
+
